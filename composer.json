@@ -1,0 +1,32 @@
+{
+    "name": "itinfor/wxbizmsgcrypt",
+    "description": "对公众平台发送给公众账号的消息加解密示例代码再次封装",
+    "autoload": {
+        "psr-4": {
+            "Itinfor\\": "src/"
+        }
+    },
+    "autoload-dev":{
+        "psr-4":{
+            "Itinfor\\":"src/"
+            }
+        },
+    "authors": [
+        {
+            "name": "itinfor",
+            "email": "composer@itinfor.cn",
+            "homepage":"https://itinfor.cn"
+        }
+    ],
+    "license": "MIT",
+    "keywords": [
+      "微信",
+      "微信公众号",
+      "微信开放平台",
+      "微信加密解密"
+    ],
+    "homepage":"https://itinfor.cn",
+    "require": {
+        "php":">=5.6.0"
+    }
+}
