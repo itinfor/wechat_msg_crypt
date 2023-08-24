@@ -6,11 +6,6 @@
             "Itinfor\\": "src/"
         }
     },
-    "autoload-dev":{
-        "psr-4":{
-            "Itinfor\\":"src/"
-            }
-        },
     "authors": [
         {
             "name": "itinfor",
