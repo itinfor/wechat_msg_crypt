@@ -6,6 +6,11 @@
             "Itinfor\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Itinfor\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "itinfor",
@@ -23,6 +28,5 @@
     "homepage":"https://itinfor.cn",
     "require": {
         "php":">=5.6.0"
-    },
-    "minimum-stability": "dev"
+    }
 }
