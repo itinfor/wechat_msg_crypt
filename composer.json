@@ -23,5 +23,6 @@
     "homepage":"https://itinfor.cn",
     "require": {
         "php":">=5.6.0"
-    }
+    },
+    "minimum-stability": "stable"
 }
