@@ -1,8 +1,10 @@
-### 示例框架:
+### 示例框架
+
 ThinkPHP 5.1
 
 ### 官方文档
-https://developers.weixin.qq.com/doc/offiaccount/Message_Management/Message_encryption_and_decryption_instructions.html
+
+<a href="https://developers.weixin.qq.com/doc/offiaccount/Message_Management/Message_encryption_and_decryption_instructions.html" target="_blank" title="消息加解密说明">消息加解密说明</a>
 
 ### 下载地址
 
