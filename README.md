@@ -11,13 +11,13 @@
 ![image](https://github.com/itinfor/wechat_msg_crypt/assets/46643783/35dbf790-0925-4ae2-b0c8-5e3d7b0fcc95)
 
 4、在需要的调用的地方，跟官方文档一样引用即可，如下：
-调用：
 
 ![image](https://github.com/itinfor/wechat_msg_crypt/assets/46643783/b89e7046-2024-44f7-b201-90b0e4ddd1a8)
 
 5、解密：
 
-![image](https://github.com/itinfor/wechat_msg_crypt/assets/46643783/749b3d5d-c479-443b-b814-d57df50d17c8)
+![image](https://github.com/itinfor/wechat_msg_crypt/assets/46643783/dc0bd13a-6469-4318-a460-e17ed24a7238)
+
 
 
 
