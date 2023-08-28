@@ -50,7 +50,7 @@ if ( ! empty($_GET['msg_signature']) && ! empty($_GET['timestamp']) && ! empty($
     Log::info("msg============>" . $msg);
 
     $object_xml = simplexml_load_string($msg, 'SimpleXMLElement', LIBXML_NOCDATA);//将文件转换成对象
-    $xml_json = json_encode($object_xml);//将对象转换个JSON
+    $xml_json = json_encode($object_xml);//将对象转换为JSON
 
     Log::info("xml_json===========>" . $xml_json);
 }
