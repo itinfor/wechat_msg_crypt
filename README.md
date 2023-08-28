@@ -1,6 +1,18 @@
 ### 示例框架:
 ThinkPHP 5.1
 
+### 官方文档
+https://developers.weixin.qq.com/doc/offiaccount/Message_Management/Message_encryption_and_decryption_instructions.html
+
+### 下载地址
+
+![image](https://github.com/itinfor/wechat_msg_crypt/assets/46643783/cbf00dc0-35f3-4065-9932-a6fcc247e44e)
+
+### 封装说明
+
+追加了命名空间+格式化文件
+
+
 ### 使用方法
 
 1、在项目根目录执行 **composer require itinfor/wechat_msg_crypt**，安装该插件
